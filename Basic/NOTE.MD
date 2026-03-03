@@ -35,3 +35,7 @@ let boolVal: boolean;
 
 # The unknown Type
 - `typeNarrowing`
+
+# Handling Errors in Try/Catch
+- type assertion
+- The never Type
