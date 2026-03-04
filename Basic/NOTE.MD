@@ -64,3 +64,11 @@ let boolVal: boolean;
 - Getters and Setters
 - Static Members
 - Abstract Classes
+
+# Interfaces & Generics Intro
+- Interfaces for Functions
+- Index Signatures
+- Interface Merging
+- Generics Basics (<T>)
+- Multiple Generic Types
+- Generic Interfaces
