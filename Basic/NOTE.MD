@@ -57,3 +57,10 @@ let boolVal: boolean;
 # Readonly Arrays
 # Tuples
 # Enums
+
+# Classes Introduction
+- Constructors
+- Access Modifiers (Public, Private)
+- Getters and Setters
+- Static Members
+- Abstract Classes
