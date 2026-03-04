@@ -39,3 +39,6 @@ let boolVal: boolean;
 # Handling Errors in Try/Catch
 - type assertion
 - The never Type
+
+# Type Aliases (type)
+- Literal type - custom data type
