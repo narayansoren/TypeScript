@@ -52,3 +52,8 @@ let boolVal: boolean;
 # Functions Basics
 - void Return Type
 - Optional Parameters in Functions
+
+# Arrays Basics
+# Readonly Arrays
+# Tuples
+# Enums
