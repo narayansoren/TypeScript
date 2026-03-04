@@ -49,3 +49,6 @@ let boolVal: boolean;
 - Required<T> Utility Type
 - Pick<T> Utility Type
 - Omit<T> Utility Type
+# Functions Basics
+- void Return Type
+- Optional Parameters in Functions
