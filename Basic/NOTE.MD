@@ -42,3 +42,10 @@ let boolVal: boolean;
 
 # Type Aliases (type)
 - Literal type - custom data type
+
+# Objects in TypeScript
+- Duck Typing / Structural Typing
+- Partial<T> Utility Type
+- Required<T> Utility Type
+- Pick<T> Utility Type
+- Omit<T> Utility Type
