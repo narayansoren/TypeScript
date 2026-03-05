@@ -81,3 +81,11 @@ let boolVal: boolean;
 - `.d.ts`
 - Handling Axios Errors Safely
 - import type Syntax
+- Setting up React with TypeScript
+- Creating & Typing Components
+- Typing useState Hook
+- Forms & Event Handling
+- Typing onChange Events
+- Typing onSubmit Events
+- PropsWithChildren & ReactNode
+- Custom Hooks with Generics
