@@ -72,3 +72,12 @@ let boolVal: boolean;
 - Generics Basics (<T>)
 - Multiple Generic Types
 - Generic Interfaces
+
+# Type Declarations (.d.ts)
+- Installing Libraries & Types (Axios)
+- Fetching Data with Types
+- `npm i some-library`
+- `npm i -D @types/some-library`
+- `.d.ts`
+- Handling Axios Errors Safely
+- import type Syntax
